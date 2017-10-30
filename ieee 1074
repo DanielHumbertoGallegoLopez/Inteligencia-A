@@ -8,3 +8,8 @@ Se tiene en cuenta que el estándar no define ni prescribe un ciclo de vida en p
 El proceso de selección de ciclo de vida identifica y selecciona el software que va a construir. 
 Los procesos de gestión son el conjunto de procesos que establecen la estructura del proyecto y gestionan sus recursos durante todo 
 el ciclo de vida del software.
+
+Esta necesidad, para ser satisfecha, puede requerir una nueva aplicación, o un cambio de todo o parte de una aplicación existente. 
+A partir del informe de la necesidad, con el soporte de las actividades de los procesos integrales y bajo el plan de gestión del proyecto,
+los procesos de desarrollo producen el software. Por último, se deben realizar las actividades para instalar, operar, soportar, mantener 
+y retirar el producto de software. Los procesos integrales son necesarios para completar con éxito las actividades del proyecto de software
